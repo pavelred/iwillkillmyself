@@ -9,6 +9,6 @@
   "author": "Pavel Sapronchik",
   "license": "MIT",
   "dependencies": {
-    "selenium-webdriver": "^4.0.0-alpha.4"
+    "selenium-webdriver": "^4.8.2"
   }
 }
